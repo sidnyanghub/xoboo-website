@@ -1,0 +1,1 @@
+console.log('XOBOO site loaded'); window.addEventListener('scroll', () => { const nav = document.getElementById('nav'); if (window.scrollY > 50) nav.style.opacity = '0.8'; else nav.style.opacity = '1'; });
